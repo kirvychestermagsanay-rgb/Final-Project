@@ -40,11 +40,6 @@
    ```
 4. Open your browser and navigate to the application URL (typically `http://localhost:5173` for frontend)
 
-### Usage
-[Add instructions on how to use the app]
-
-### Troubleshooting
-[Add common issues and solutions]
 
 ### Database Setup
 1. Open phpMyAdmin (`http://localhost/phpmyadmin`)
