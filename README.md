@@ -15,19 +15,27 @@
    ```bash
    cd Final-Project-Magsanay
    ```
-3. Install dependencies:
+3. Install backend dependencies:
    ```bash
+   cd backend
+   npm install
+   ```
+4. Install frontend dependencies (in a new terminal):
+   ```bash
+   cd frontend
    npm install
    ```
 
 ### Running the App
 1. Start XAMPP and enable Apache and MySQL for the database
-2. In the backend directory, run:
+2. In the backend directory terminal, run:
    ```bash
+   cd backend
    npm run dev
    ```
-3. In the frontend directory, run:
+3. In the frontend directory terminal, run:
    ```bash
+   cd frontend
    npm run dev
    ```
 4. Open your browser and navigate to the application URL (typically `http://localhost:5173` for frontend)
