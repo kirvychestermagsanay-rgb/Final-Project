@@ -40,6 +40,11 @@
    ```
 4. Open your browser and navigate to the application URL (typically `http://localhost:5173` for frontend)
 
+### Features
+- **Create**: Add new vehicles to the system
+- **Read**: List all vehicles added and view pending rentals
+- **Update**: Edit vehicle details
+- **Delete**: Remove vehicles from the system
 
 ### Database Setup
 1. Open phpMyAdmin (`http://localhost/phpmyadmin`)
